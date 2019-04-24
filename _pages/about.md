@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student of electrical engineering at [Amirkabir University of Technoloy(AUT)](http://www.aut.ac.ir/aut/).I like machine learning, embedded system and linux alot.
+
+I am a master student of electrical engineering at [Amirkabir University of Technology(AUT)](http://www.aut.ac.ir/aut/). I like machine learning, embedded system, and Linux a lot.
